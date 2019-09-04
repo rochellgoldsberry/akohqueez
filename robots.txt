@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eveephahh.floatsyi.com/sitemap.xml
